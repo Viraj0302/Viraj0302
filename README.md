@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Computer Vision**
 
-- 👯 I’m looking to collaborate on **Data Analysis Projects**
+- 👯 I’m looking to collaborate on **Data Analysis/ML/AI Projects**
 
-- 📫 How to reach me **viraj.garv@gmail.com**
+- 📫 How to reach me **viraj.garv@gmail.com / https://www.linkedin.com/in/elvirajsingh/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
