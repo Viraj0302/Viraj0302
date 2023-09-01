@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viraj0302&label=Profile%20views&color=0e75b6&style=flat" alt="viraj0302" /> </p>
 
-- 🔭 I’m currently working on [ K-Means Clustering ]( )
+- 🔭 I’m currently working on [ Natural Language Processing]( )
 
-- 🌱 I’m currently learning **NumPy, Pandas and Sklearn**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 👯 I’m looking to collaborate on **Data Analysis Projects**
 
